@@ -2,9 +2,7 @@
 
 Graphic designer, photographer and sound artist. Los Angeles.
 
-Everything here is static HTML — no build step, no framework, no package manager,
-no analytics, no fonts fetched from anyone. Each site is a folder of plain `.html`
-files with inline `<style>` and `<script>`, deployed from `main` with GitHub Pages.
+Testing the creative limits of Claude Code for various projects.
 
 | Site | Repo | |
 |---|---|---|
