@@ -1,4 +1,4 @@
-## GE
+## Gregor Egan
 
 Graphic designer, photographer and sound artist. Testing the creative limits of Claude Code for various projects.
 
