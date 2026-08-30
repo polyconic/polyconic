@@ -1,8 +1,8 @@
-## Gregor Egan
+## GE
 
-Graphic designer, photographer and sound artist. Los Angeles.
+Graphic designer, photographer and sound artist. Testing the creative limits of Claude Code for various projects.
 
-Testing the creative limits of Claude Code for various projects.
+With love from LA.
 
 | Site | Repo | |
 |---|---|---|
