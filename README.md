@@ -2,7 +2,7 @@
 
 Graphic designer, photographer and techno producer. Building internet capsules on the side.
 
-With love from LA.
+Projects:
 
 | Site | Repo | |
 |---|---|---|
