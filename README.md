@@ -2,7 +2,7 @@
 
 Graphic designer, photographer and techno producer. Building internet capsules on the side.
 
-Online projects:
+Web projects:
 
 | Site | Repo | |
 |---|---|---|
