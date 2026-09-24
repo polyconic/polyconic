@@ -12,6 +12,6 @@ Web projects:
 | **[quietbroadcast.com](https://quietbroadcast.com/)** | [`quietbroadcast`](https://github.com/polyconic/QuietBroadcast) | Electronic music showcase, every six hours.|
 | **[visuospatials.com](https://visuospatials.com)** | [`visuospatials`](https://github.com/polyconic/visuospatials) | Design and artwork studio, plus five instruments that export. |
 
-Also a few small Mac apps I made for my own work: [Nyquist](https://github.com/polyconic/Nyquist) (spectrogram analyzer), [Manifest](https://github.com/polyconic/ManifestAnalyzer) (mastering QA), [Crate](https://github.com/polyconic/Crate) (client delivery packager), [MakingStories](https://github.com/polyconic/MakingStories) (story clip cutter) and [Specced](https://github.com/polyconic/Specced) (export and print specs).
+Also a few small Mac apps I made for my own work: [Nyquist](https://github.com/polyconic/Nyquist) (spectrogram analyzer), [Manifest](https://github.com/polyconic/ManifestAnalyzer) (mastering QA), [Crate](https://github.com/polyconic/Crate) (client delivery packager), [MakingStories](https://github.com/polyconic/MakingStories) (story clip cutter) and [Specced](https://github.com/polyconic/Specced) (export and print specs). Everyone is welcome to download and use them!
 
 [gregor.art@pm.me](mailto:gregor.art@pm.me)
