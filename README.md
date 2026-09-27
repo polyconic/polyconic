@@ -10,7 +10,8 @@ Web projects:
 | **[indexless.net](https://indexless.net)** | [`indexless`](https://github.com/polyconic/indexless) | A curated library of technical documents and cultural artifacts. |
 | **[delilahsvault.com](https://delilahsvault.com)** | [`delilahsvault`](https://github.com/polyconic/delilahsvault) | An archive of my old music. Streamed forever.|
 | **[quietbroadcast.com](https://quietbroadcast.com/)** | [`quietbroadcast`](https://github.com/polyconic/QuietBroadcast) | Electronic music showcase, every six hours.|
-| **[visuospatials.com](https://visuospatials.com)** | [`visuospatials`](https://github.com/polyconic/visuospatials) | Design and artwork studio, plus five instruments that export. |
+| **[visuospatials.com](https://visuospatials.com)** | [`visuospatials`](https://github.com/polyconic/visuospatials) | A visual hub for design and artwork, in any medium. |
+| **[audiospatials.com](https://audiospatials.com)** | [`audiospatials`](https://github.com/polyconic/Audiospatials) | A music collective and studio in Santa Cruz and LA. |
 
 Also a few small Mac apps I made for my own work: [Nyquist](https://github.com/polyconic/Nyquist) (spectrogram analyzer), [Manifest](https://github.com/polyconic/ManifestAnalyzer) (mastering QA), [Crate](https://github.com/polyconic/Crate) (client delivery packager), [MakingStories](https://github.com/polyconic/MakingStories) (story clip cutter) and [Specced](https://github.com/polyconic/Specced) (export and print specs). 
 
