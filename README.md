@@ -15,6 +15,6 @@ Web projects:
 
 Also a few small Mac apps I made for my own work: [Nyquist](https://github.com/polyconic/Nyquist) (spectrogram analyzer), [Manifest](https://github.com/polyconic/ManifestAnalyzer) (mastering QA), [Crate](https://github.com/polyconic/Crate) (client delivery packager), [MakingStories](https://github.com/polyconic/MakingStories) (story clip cutter) and [Specced](https://github.com/polyconic/Specced) (export and print specs). 
 
-Download anf try them out.
+Download and try them out.
 
 [gregor.art@pm.me](mailto:gregor.art@pm.me)
