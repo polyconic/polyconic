@@ -4,6 +4,6 @@
   <img src="banner-light.svg" alt="GE" width="100%">
 </picture>
 
-Graphic designer, photographer and techno producer. Building internet capsules on the side.
+Graphic designer, photographer and techno producer.
 
 [gregor.art@pm.me](mailto:gregor.art@pm.me)
