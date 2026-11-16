@@ -6,4 +6,4 @@
 
 Graphic designer, photographer and techno producer.
 
-[gregor.art@pm.me](mailto:gregor.art@pm.me)
+[hi@gregoregan.com](mailto:hi@gregoregan.com)
